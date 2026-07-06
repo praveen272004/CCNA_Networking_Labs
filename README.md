@@ -46,7 +46,7 @@ Each lab directory includes:
 - 📷 Network topology design screenshot
 - 📷 Configuration screenshots
 - 📷 Output/verification screenshots
-- 📄 Cisco Packet Tracer (`.pkt`) file *(if included)*
+- 📄 Cisco Packet Tracer (`.pkt`) file
 
 ## Software Used
 
@@ -75,11 +75,12 @@ Each lab directory includes:
 1. Clone this repository.
 2. Open the desired lab folder.
 3. View the topology diagram and configuration screenshots.
-4. Open the Packet Tracer (`.pkt`) file using Cisco Packet Tracer (if available).
+4. Open the Packet Tracer (`.pkt`) file using Cisco Packet Tracer.
 5. Verify the configuration using the provided output screenshots.
 
 ```bash
 git clone https://github.com/praveen272004/CCNA_Networking_Labs.git
+cd CCNA_Networking_Labs
 ```
 
 ## Prerequisites
